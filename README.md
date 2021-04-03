@@ -4,5 +4,5 @@ This repository is partially based on this [tutorial](https://www.jitsejan.com/s
 
 ## Setting up services
 ```shell
-docker-compose up -d #starting kafka
+docker-compose up -d #starting minio
 ```
