@@ -23,5 +23,11 @@ In order to execute this code, you are going to need:
 
 ## Setting up services before running the code
 ```shell
-docker-compose up -d #starting minio
+docker-compose up -d # starting minio
+```
+
+## How to run
+
+```shell
+sbt run
 ```
